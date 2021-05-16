@@ -18,3 +18,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Netlify Badge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da33a6e6-48b7-4d2f-b0e3-1c104fee923b/deploy-status)](https://app.netlify.com/sites/distracted-carson-d76a5b/deploys)

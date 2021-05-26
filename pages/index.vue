@@ -5,7 +5,7 @@
     <section class="hero is-primary">
       <dev class="hero-body">
         <p class="title">
-          피아노의 모든것<i class="fab fa-odnoklassniki-square"></i>
+          피아노의 모든것<i class="fab fa-odnoklassniki-square" />
         </p>
         <p class="subtitle">
           88개 내외의 건반이 있고, 이를 누르면 연결된 해머가 각 현을 때려서 낸
@@ -24,7 +24,7 @@
               src="https://w.namu.la/s/1e552a597d00665ae0e3d9ad675d0cb336a2e1055faab501eac77e0b21ef4341f9459f566d426ebf419a6142ca14371a622b0870432fbd84892950b7901b2a66855a298e3877b6b411f4a071a2cec3e9c4251cf452e5cd402e24fa3ab47933f1ff78a25b98c1b59ee777e727b0a87c0e"
               width="500"
               height="600"
-            />
+            >
             88개 내외의 건반이 있고, 이를 누르면 연결된 해머가 각 현을 때려서 낸
             소리를 공명 상자로 증폭하는 건반 악기. 음역이 넓고 표현력이
             풍부하다. 18세기 초 이탈리아에서 크리스토포리가 원형을 고안하였다.
@@ -78,7 +78,7 @@
           </div>
           <div class="message-body">
             <figure class="image is-128x128">
-              <img src="~assets/piano.jpg" alt="" />
+              <img src="~assets/piano.jpg" alt="">
             </figure>
             <p>
               건반악기 중에는 비교적 최근에 생긴 악기이다. 메디치 가문의 악기

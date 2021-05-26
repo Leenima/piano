@@ -13,11 +13,11 @@ export default {
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
             {
-                rel: "stylesheet",
+                rel: "stylesheet", // 스타일시트 her0 같은거 쓸겁니다!
                 href: "https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css"
             }
         ],
-        script: [{
+        script: [{ //fontawesome 사용할겁니다!
             defer: "", //defer 다운로드 거부?
             src: "https://use.fontawesome.com/releases/v5.15.3/js/all.js"
         }]

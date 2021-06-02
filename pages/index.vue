@@ -155,6 +155,34 @@
             </p>
           </div>
         </article>
+        <article class="notification">
+          <table class="table is-striped is-hoverable is-fullwidth">
+            <thead>
+              <tr>
+                <th>분류</th>
+                <th>이름</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>피아노</td>
+                <td>A<small>(Test Text)</small></td>
+              </tr>
+              <tr>
+                <td>피아노2</td>
+                <td>B<small>(Test Text)</small></td>
+              </tr>
+              <tr>
+                <td>피아노3</td>
+                <td>C<small>(Test Text)</small></td>
+              </tr>
+              <tr class="is-selected">
+                <td>피아노4</td>
+                <td>D<small>(Test Text)</small></td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
       </div>
     </div>
   </div>

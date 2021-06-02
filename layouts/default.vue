@@ -4,6 +4,9 @@
       <ul>
         <li><nuxt-link to="/"><i class="fas fa-home"></i>홈으로</nuxt-link></li>
       </ul>
+      <li>
+        <nuxt-link to="/names"><i class="fas fa-palette"></i>피아노 색 정하기</nuxt-link>
+      </li>
     </nav>
     <Nuxt />
     <footer class="footer">

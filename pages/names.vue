@@ -3,11 +3,11 @@
     <section class="hero is-link">
       <div class="hero-body">
         <p class="title">
-          <i class="fas fa-glass-martini-alt" /> 피아노의
+          <i class="fas fa-glass-martini-alt" /> 악기의
           <i class="fas fa-glass-cheers" /> 모든것
         </p>
         <p class="subtitle">
-          피아노의 색상을 선택해주세요
+          악기를 골라주세요
         </p>
       </div>
     </section>
@@ -20,7 +20,7 @@
           <thead>
             <tr>
               <th>번호</th>
-              <th>색깔</th>
+              <th>악기 종류</th>
             </tr>
           </thead>
           <tbody>
@@ -34,8 +34,8 @@
         </table>
         <div class="content">
           <span class="tag is-danger">출처</span>
-          <a href="https://www.usability.gov/how-to-and-tools/methods/color-basics.html">
-            www.usability.gov
+          <a href="https://github.com/dariusk/corpora/blob/master/data/music/instruments.json">
+            www.github.com
           </a>
         </div>
       </div>
@@ -48,7 +48,7 @@ import pianoColor2 from '~/assets/colors2.json'
 export default {
   data () {
     return {
-      tablepianoColor1: pianoColor1.colors,
+      tablepianoColor1: pianoColor1.instruments,
       tablepianoColor2: pianoColor2.colors
     }
   }

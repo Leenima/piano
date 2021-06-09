@@ -3,7 +3,7 @@
 
 # Website Domain Name
 > https://leenimapiano.tk/
-> https://app.netlify.com/sites/distracted-carson-d76a5b/overview
+> https://distracted-carson-d76a5b.Netlify.com/
 
 ## Build Setup
 

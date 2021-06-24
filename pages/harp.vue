@@ -20,7 +20,7 @@
           </div>
           <div class="message-body">
             <img
-              src="https://dbscthumb-phinf.pstatic.net/3146_000_1/20140613220441495_49P7JV7RM.jpg/ic4202-1.jpg?type=w276_fst_n&wm=Y"
+              src="https://www.morleyharps.co.uk/Files/116004/Img/21/M625359-full-zoom.jpg"
               width="800"
               height="600"
             >

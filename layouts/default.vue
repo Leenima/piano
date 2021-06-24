@@ -58,7 +58,7 @@
       </ul>
       <ul>
         <li>
-          <nuxt-link to="/wind">
+          <nuxt-link to="/harp">
             <i class="fas fa-palette" />현악기-하프
           </nuxt-link>
         </li>

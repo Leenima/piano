@@ -16,11 +16,11 @@
       <div class="column">
         <article class="message">
           <div class="message-header">
-            <p>관관악기 정보</p>
+            <p>관악기 정보</p>
           </div>
           <div class="message-body">
             <img
-              src="https://w.namu.la/s/d86b0f83d15444319b859c1a5cd64723ca1365297f8475c47741bf458f3fbe232831c0723cb587118434c67a085cc8a0e666df8c23d8256b73db61eb46f66d5888cf4ea2b343461c81a139ae09e40f64038f2e5c3b6b093d41cbc7cd8f9ffb5201b59843e55340326537327e17efbf41"
+              src="https://w.namu.la/s/d86b0f83d15444319b859c1a5cd64723ca1365297f8475c47741bf458f3fbe232831c0723cb587118434c67a085cc8a0e666df8c23d8256b73db61eb46f66d5888cf4ea2b343461c81a139ae09e40f643d2aceba7729ddaa62812453e8a36770f74083244343f2cb6a7091258a59fb19"
               width="800"
               height="600"
             >

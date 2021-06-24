@@ -42,7 +42,6 @@ import axios from 'axios'
 export default {
   async asyncData () {
     const instrumentt = await axios.get('https://raw.githubusercontent.com/mobyvb/midi-converter/master/lib/instruments.json')
-    alert(Object.keys(instrumentt.data[0]))
     return {
       tableinstrument: instrumentt.data,
       tableinstrumentkey: Object.keys(instrumentt.data[0]
